@@ -20,7 +20,7 @@ Interesting differences exist between data from labs 1 and 2. Both data have the
 
 The average values of the features between the two labs are quite different.
 
-Model Performance Summary:
+## Model Performance Summary:
 
 The model trained on the overall data has an error value of 0.16.
 Separate models for data from Lab 1 and Lab 2 show improved performance with errors of 0.15 and 0.14, respectively.
