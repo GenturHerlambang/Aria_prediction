@@ -12,7 +12,7 @@ The flow of this project, first EDA (Exploratory Data Analysis) to find out the 
 
 # Project Conclusion
 
-Data Analysis Summary:
+## Data Analysis Summary:
 
 The data obtained shows a diverse distribution, especially for v1 to v5, which is divided into two clusters.
 
